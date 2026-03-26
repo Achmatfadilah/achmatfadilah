@@ -1,8 +1,8 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514735/4395/wave.gif?1643514735" width="30"/> Hello, I'm Achmatfadilah (Prabu)
+# 👋 Hello, I'm Achmatfadilah (Prabu)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Fullstack+Web+Developer;Building+Amazing+Projects;Open+Source+Enthusiast;Coffee+Addicted+Coder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Fullstack+Web+Developer;Gamer+And+Developer;Open+Source+Enthusiast;Coffee+Addicted+Coder" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -47,10 +47,96 @@
 
 ---
 
-## 💫 Animation Banner
+## 🎮 GAME ZONE 🎮
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shapes&height=150&section=header&color=0:58A6FF,100:8B5CF6&text=Welcome+To+My+Profile&fontSize=50&animation=fade_in&fontAlign=50" width="100%" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="60" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrotpartyparrot.gif" width="60" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="60" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="60" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="60" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="60" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="60" />
+</p>
+
+---
+
+### 🎯 My Favorite Games
+
+| Game | Badge |
+|------|-------|
+| 🎯 Valorant | <img src="https://img.shields.io/badge/Valorant-EYEWATER-yellow?style=flat&logo=valorant" /> |
+| 🦸 Mobile Legends | <img src="https://img.shields.io/badge/Mobile_Legends-Available-blue?style=flat" /> |
+| 🌸 Genshin Impact | <img src="https://img.shields.io/badge/Genshin_Impact-9C2F2F-red?style=flat" /> |
+| ⚔️ League of Legends | <img src="https://img.shields.io/badge/LoL-C9B037-yellow?style=flat&logo=leagueoflegends" /> |
+| 🚀 Apex Legends | <img src="https://img.shields.io/badge/Apex_Legends-DA292A-red?style=flat&logo=apexlegends" /> |
+| 🏎️ PUBG Mobile | <img src="https://img.shields.io/badge/PUBG-FFCA28-yellow?style=flat" /> |
+| 🌟 Honkai Star Rail | <img src="https://img.shields.io/badge/Honkai-000000-black?style=flat" /> |
+| 🔥 Free Fire | <img src="https://img.shields.io/badge/FreeFire-FF0000-red?style=flat" /> |
+| 🎮 Call of Duty | <img src="https://img.shields.io/badge/CoD-000000-black?style=flat&logo=callofduty" /> |
+
+---
+
+### 🎮 My In-Game Ranks
+
+| Game | Rank | Main Hero/Character |
+|------|------|---------------------|
+| 🎯 **Valorant** | 💎 Diamond | Jett, Raze, Reyna |
+| 🦸 **Mobile Legends** | 👑 Mythic | Franco, Kagura, Ling |
+| 🌸 **Genshin Impact** | ⚡ AR 60 | Raiden Shogun, Zhongli, Neuvillette |
+| ⚔️ **League of Legends** | 💎 Platinum | Yasuo, Zed, Akali |
+| 🚀 **Apex Legends** | 💎 Diamond | Wraith, Pathfinder, Horizon |
+| 🏎️ **PUBG Mobile** | 🎖️ Ace | Sniper, Entry Fragger |
+
+---
+
+### 🖥️ Gaming Setup Specs
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    💻 MY GAMING RIG 💻                     │
+├─────────────────────────────────────────────────────────────┤
+│  🖥️  PC       : Gaming PC with RTX 3060 Ti               │
+│  ⚡ CPU       : Intel Core i7-12700K 12th Gen            │
+│  💾 RAM       : 32GB DDR5 5600MHz                        │
+│  🖥️ Monitor  : LG UltraGear 144Hz 1ms                    │
+│  🖱️ Mouse    : Razer DeathAdder V3 Pro                   │
+│  🎧 Headset   : Sennheiser HD 560S                       │
+│  ⌨️ Keyboard  : Keychron K8 Pro Mechanical RGB            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎮 Currently Playing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Playing_🎮-Valorant-yellow?style=for-the-badge&logo=valorant" />
+  <img src="https://img.shields.io/badge/And_Also-🌸_Genshin_Impact-red?style=for-the-badge" />
+</p>
+
+---
+
+### 🎰 Game Projects I've Built
+
+<p align="center">
+  <a href="https://github.com/achmatfadilah/game-2048">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=achmatfadilah&repo=game-2048&theme=radical&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/achmatfadilah/snake-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=achmatfadilah&repo=snake-game&theme=radical&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/achmatfadilah/ping-pong-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=achmatfadilah&repo=ping-pong-game&theme=radical&bg_color=0d1117&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🎲 Random Gaming Facts
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2358A6FF&borderColor=%238B5CF6" alt="Jokes" />
 </p>
 
 ---
@@ -63,25 +149,10 @@
 
 ---
 
-## 🎮 Gaming & Fun Zone
+## ⏱️ Coding Stats
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2358A6FF&borderColor=%238B5CF6" alt="Jokes" />
-</p>
-
-### 🎮 Game Characters I Play
-
-<p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="50" title="Party Parrot" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrotpartyparrot.gif" width="50" title="Party Time" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/gothparrot.gif" width="50" title="Goth Parrot" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/icegolfparrot.gif" width="50" title="Ice Golf" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/portUGparrot.gif" width="50" title="Portugal" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="50" title="Party" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="50" title="Middle" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="50" title="Hypno" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="50" title="Dad" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="50" title="Coffee" />
+  <img src="https://komarev.com/ghpvc/?username=achmatfadilah&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -96,6 +167,7 @@ I specialize in building modern, scalable, and user-friendly web applications. W
 
 ### 🎯 What I Do
 - 🌐 Build responsive websites and web applications
+- 🎮 Create browser-based games
 - 🔧 Develop robust RESTful APIs and microservices
 - 📱 Create intuitive user interfaces
 - ☁️ Deploy and manage cloud infrastructure
@@ -103,6 +175,7 @@ I specialize in building modern, scalable, and user-friendly web applications. W
 
 ### 📚 Currently Learning
 - ☸️ Kubernetes & Cloud Native
+- 🎯 Game Development
 - 🔐 Cybersecurity Fundamentals
 - 📊 System Architecture
 - 🤖 AI/ML Integration
@@ -110,36 +183,16 @@ I specialize in building modern, scalable, and user-friendly web applications. W
 ### ⚡ Fun Facts
 - ☕ I run on coffee (at least 3 cups/day)
 - 🌙 Most productive during midnight hours
-- 🎮 Love gaming in free time (Valorant, Mobile Legends, Genshin Impact)
+- 🎮 Love gaming in free time
 - 📖 Always reading tech blogs
 - 💡 Open source enthusiast
 
 ### 🎯 2026 Goals
 - Launch my own SaaS product
+- Create 3 indie games
 - Contribute to 10+ open source projects
 - Achieve AWS Solutions Architect certification
 - Build a developer community in Indonesia
-
----
-
-## 🎮 My Gaming Setup
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PC-Gaming-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitor-LG%20UltraGear-FFD700?style=for-the-badge&logo=lg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keyboard-Mech%20Keyboard-FF6B6B?style=for-the-badge&logo=keyboard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mouse-Logitech%20G502-00FF00?style=for-the-badge&logo=logitech&logoColor=white" />
-  <img src="https://img.shields.io/badge/Headset-Sennheiser-FF0000?style=for-the-badge&logo=headset&logoColor=white" />
-</p>
-
-**Favorite Games:**
-- 🎯 Valorant
-- 🦸 Mobile Legends
-- 🌸 Genshin Impact
-- ⚔️ League of Legends
-- 🚀 Apex Legends
-- 🏎️ PUBG Mobile
-- 🗡️ Honkai: Star Rail
 
 ---
 
@@ -149,14 +202,6 @@ I specialize in building modern, scalable, and user-friendly web applications. W
   <a href="https://spotify-now-playing-rho.vercel.app/api/spotify">
     <img src="https://spotify-now-playing-rho.vercel.app/api/spotify" alt="Spotify" width="300" />
   </a>
-</p>
-
----
-
-## ⏱️ Time Since I Started Coding
-
-<p align="center">
-  <img src="https:// uptime-kuma.achmatfadilah.vercel.app/api/badge/uptime/48h?label=Days%20Coding&color=58A6FF&logo=clock" />
 </p>
 
 ---
@@ -234,7 +279,6 @@ I specialize in building modern, scalable, and user-friendly web applications. W
 - Designed and implemented microservices architecture
 - Mentored team of 5 junior developers
 - Reduced deployment time by 60% with CI/CD pipelines
-- Collaborated with stakeholders to define project requirements
 - Tech Stack: React, Next.js, Node.js, PostgreSQL, AWS, Docker, Kubernetes
 
 ### 🟡 Fullstack Web Developer  
@@ -243,7 +287,6 @@ I specialize in building modern, scalable, and user-friendly web applications. W
 - Developed 15+ client projects from scratch to deployment
 - Built RESTful APIs serving 100k+ daily requests
 - Created responsive and accessible user interfaces
-- Implemented payment gateway integrations
 - Tech Stack: Vue.js, Express, MongoDB, Redis, Vercel, Stripe
 
 ### 🔵 Junior Web Developer
@@ -251,8 +294,6 @@ I specialize in building modern, scalable, and user-friendly web applications. W
 
 - Created responsive web applications using React
 - Assisted in backend API development with Node.js
-- Participated in agile sprints and daily standups
-- Fixed bugs and improved application performance
 - Tech Stack: React, JavaScript, CSS, Node.js, MySQL, Firebase
 
 ---
@@ -260,16 +301,7 @@ I specialize in building modern, scalable, and user-friendly web applications. W
 ## 🚀 Featured Projects
 
 ### 🔷 E-Commerce Platform
-> A full-featured e-commerce platform with cart, payments, admin dashboard, and inventory management
-
-![Project Preview](https://via.placeholder.com/800x400/1a1a2e/58A6FF?text=E-Commerce+Platform)
-
-**Key Features:**
-- 🛒 Shopping cart & wishlist
-- 💳 Payment gateway integration (Stripe, PayPal)
-- 📊 Admin dashboard with analytics
-- 📱 Mobile-responsive design
-- 🔍 Advanced product search
+> A full-featured e-commerce platform with cart, payments, admin dashboard
 
 **Tech Stack:** React, Node.js, PostgreSQL, Stripe, Docker, AWS S3
 
@@ -277,117 +309,36 @@ I specialize in building modern, scalable, and user-friendly web applications. W
   <a href="https://github.com/achmatfadilah/ecommerce-platform">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github" />
   </a>
-  <a href="https://ecommerce-demo.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel" />
-  </a>
   <img src="https://img.shields.io/badge/⭐-125-red" />
-  <img src="https://img.shields.io/badge/Fork-34-blue" />
 </p>
 
 ---
 
 ### 🔶 Task Management Application
-> A collaborative task management tool with real-time updates, team collaboration, and Kanban boards
+> A collaborative task management tool with real-time updates
 
-![Project Preview](https://via.placeholder.com/800x400/1a1a2e/8B5CF6?text=Task+Management+App)
-
-**Key Features:**
-- 📋 Kanban board with drag & drop
-- 👥 Team collaboration
-- 💬 Real-time chat
-- 📅 Calendar integration
-- 🔔 Notifications
-
-**Tech Stack:** Next.js, TypeScript, MongoDB, Socket.io, Tailwind CSS, Pusher
+**Tech Stack:** Next.js, TypeScript, MongoDB, Socket.io, Tailwind CSS
 
 <p>
   <a href="https://github.com/achmatfadilah/task-manager">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github" />
   </a>
-  <a href="https://taskmanager-demo.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel" />
-  </a>
   <img src="https://img.shields.io/badge/⭐-89-red" />
-  <img src="https://img.shields.io/badge/Fork-21-blue" />
 </p>
 
 ---
 
 ### 🔸 Weather Dashboard
-> A beautiful weather dashboard with forecasts, interactive maps, and location-based alerts
+> A beautiful weather dashboard with forecasts and maps
 
-![Project Preview](https://via.placeholder.com/800x400/1a1a2e/10B981?text=Weather+Dashboard)
-
-**Key Features:**
-- 🌤️ Current weather & 7-day forecast
-- 🗺️ Interactive weather maps
-- 📍 Location-based updates
-- ⚠️ Weather alerts
-- 🌙 Dark/Light mode
-
-**Tech Stack:** Vue.js, Python, FastAPI, OpenWeatherMap API, Chart.js
+**Tech Stack:** Vue.js, Python, FastAPI, OpenWeatherMap API
 
 <p>
   <a href="https://github.com/achmatfadilah/weather-dashboard">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github" />
   </a>
-  <a href="https://weather-dashboard.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel" />
-  </a>
   <img src="https://img.shields.io/badge/⭐-56-red" />
-  <img src="https://img.shields.io/badge/Fork-12-blue" />
 </p>
-
----
-
-### 🔹 Social Media App
-> A social media platform with posts, likes, comments, and user profiles
-
-![Project Preview](https://via.placeholder.com/800x400/1a1a2e/F59E0B?text=Social+Media+App)
-
-**Key Features:**
-- 📝 Create & share posts
-- ❤️ Like & comment system
-- 👤 User profiles & followers
-- 🔔 Real-time notifications
-- 🔍 Search users & posts
-
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node), Socket.io, AWS S3
-
-<p>
-  <a href="https://github.com/achmatfadilah/social-media-app">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://social-media-demo.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel" />
-  </a>
-  <img src="https://img.shields.io/badge/⭐-78-red" />
-  <img src="https://img.shields.io/badge/Fork-19-blue" />
-</p>
-
----
-
-## 🎯 My Roadmap 2026
-
-```mermaid
-graph LR
-    A[Q1 2026] --> B[Learn AWS Advanced]
-    B --> C[Q2 2026]
-    C --> D[Build SaaS Product]
-    D --> E[Q3 2026]
-    E --> F[Contribute to 5 Open Source]
-    F --> G[Q4 2026]
-    G --> H[Launch MVP & Scale]
-```
-
-### Quarterly Goals
-
-| Quarter | Goal | Status |
-|---------|------|--------|
-| Q1 2026 | AWS Solutions Architect Certification | 📚 Learning |
-| Q2 2026 | Launch SaaS Product MVP | 🚧 Building |
-| Q3 2026 | Contribute to 5 Open Source Projects | 🔄 Planning |
-| Q4 2026 | Scale to 1000 Users | 🎯 Target |
 
 ---
 
@@ -395,32 +346,6 @@ graph LR
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=achmatfadilah&theme=radical&no-frame=true&title=Star,Commit,PullRequest,Review,Repository,Organizations" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-linguist-card.vercel.app/api?username=achmatfadilah&hide=HTML,CSS&theme=radical&bg_color=0d1117" />
-</p>
-
----
-
-## 📝 Recent Blog Posts
-
-- 📄 [Building Scalable Web Applications with React & Node.js](https://medium.com/@achmatfadilah)
-- 📄 [Mastering TypeScript in 2026: Complete Guide](https://medium.com/@achmatfadilah)
-- 📄 [REST vs GraphQL: Which to Choose for Your Project?](https://medium.com/@achmatfadilah)
-- 📄 [Docker Best Practices for Production Applications](https://medium.com/@achmatfadilah)
-- 📄 [How I Built My First SaaS Product from Scratch](https://medium.com/@achmatfadilah)
-
----
-
-## ⏱️ Coding Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=achmatfadilah&theme=radical&bg_color=0d1117" />
 </p>
 
 ---
@@ -464,9 +389,6 @@ graph LR
   <a href="https://youtube.com/@achmatfadilah" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://medium.com/@achmatfadilah" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a href="https://wa.me/6281234567890" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -482,9 +404,6 @@ graph LR
   </a>
   <a href="https://saweria.co/achmatfadilah" target="_blank">
     <img src="https://img.shields.io/badge/Saweria-Donate-00A862?style=for-the-badge&logo=wave&logoColor=white" />
-  </a>
-  <a href="https://trakteer.id/achmatfadilah" target="_blank">
-    <img src="https://img.shields.io/badge/Trakteer-Donate-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
   </a>
 </p>
 
@@ -507,40 +426,9 @@ graph LR
 
 ---
 
-## 💻 OS/Browser I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,macos&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=chrome,firefox,edge&theme=dark" />
-</p>
-
----
-
-## 📱 Device I Use
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laptop-Windows%20Gaming-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phone-POCO%20F3-FF0000?style=for-the-badge&logo=xiaomi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tablet-iPad-Air-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
-
----
-
-## 📊 Dynamic Stats
-
-<p align="center">
-  <img src="https://metrics-card.vercel.app/api?username=achmatfadilah&metrics=stars,prs,issues,commits&theme=radical" width="400" />
-</p>
-
----
-
-##  Thank You!
+## 🙏 Thank You!
 
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=achmatfadilah&label=Total%20Profile%20Views&color=blueviolet&style=flat-square" />
-  </p>
-  
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&textAlign=center&fontSize=20&animationDuration=2s" width="100%" />
   </p>
